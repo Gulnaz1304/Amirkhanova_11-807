@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Local {
+public class HW33 {
     public static void main(String[] args) {
         Scanner n = new Scanner(System.in);
         System.out.println("введите длину массива");
@@ -21,4 +21,3 @@ public class Local {
 
     }
 }
-

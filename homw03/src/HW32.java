@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Max {
+public class HW32 {
     public static void main(String[] args) {
         Scanner n = new Scanner(System.in);
         System.out.println("введите количество элементов в массиве");
