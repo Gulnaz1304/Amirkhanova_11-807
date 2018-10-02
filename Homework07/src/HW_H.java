@@ -8,7 +8,7 @@ public class HW_H {
         }else{
             System.out.println("NO");
         }
-
+//o
 
     }
     static int prostoe(int k, int n ) {
