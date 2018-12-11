@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class FileTextProvider implements TextProvider {
-    private File input;
+    protected File input;
 
     public FileTextProvider(File input) {
         this.input = input;
